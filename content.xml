@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260427200557YG4W16</value>
+    <value>20260427202954TILB5S</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260427200557AYA8EF</value>
+    <value>202604272029543II36H</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1777313145330</value>
+    <value>1776699855861</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -85,7 +85,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mohicvs3-p1zdh8lef</odePageId>
+  <odePageId>page-mo7a987e-pdga90jor</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Introducción</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -121,7 +121,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mohicvs3-p1zdh8lef</odePageId>
+      <odePageId>page-mo7a987e-pdga90jor</odePageId>
       <odeBlockId>block-1776696440101-avkroh3g1</odeBlockId>
       <blockName>Justificación</blockName>
       <iconName>stop</iconName>
@@ -150,7 +150,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mohicvs3-p1zdh8lef</odePageId>
+          <odePageId>page-mo7a987e-pdga90jor</odePageId>
           <odeBlockId>block-1776696440101-avkroh3g1</odeBlockId>
           <odeIdeviceId>idevice-1776696440098-9s6npol2s</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -160,18 +160,6 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776696440098-9s6npol2s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Introducción.png\" title=\"Introducción\" width=\"1512\" height=\"2139\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -179,10 +167,10 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mohicvs4-o0ib0x6z6</odePageId>
-  <odeParentPageId>page-mohicvs3-p1zdh8lef</odeParentPageId>
+  <odePageId>page-mo7a987e-93nevkilr</odePageId>
+  <odeParentPageId>page-mo7a987e-pdga90jor</odeParentPageId>
   <pageName>Descripción</pageName>
-  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -223,7 +211,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mohicvs4-o0ib0x6z6</odePageId>
+      <odePageId>page-mo7a987e-93nevkilr</odePageId>
       <odeBlockId>20260416172543LBQHDE</odeBlockId>
       <blockName>FICHA TÉCNICA</blockName>
       <iconName>start</iconName>
@@ -252,7 +240,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mohicvs4-o0ib0x6z6</odePageId>
+          <odePageId>page-mo7a987e-93nevkilr</odePageId>
           <odeBlockId>20260416172543LBQHDE</odeBlockId>
           <odeIdeviceId>20260416192451102TFQ</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -282,43 +270,19 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mohicvs5-fnoh8it96</odePageId>
-  <odeParentPageId>page-mohicvs3-p1zdh8lef</odeParentPageId>
+  <odePageId>page-1776698021545-k2ciorpa5</odePageId>
+  <odeParentPageId>page-mo7a987e-pdga90jor</odeParentPageId>
   <pageName>Presentación</pageName>
-  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Presentación</value>
     </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Presentación</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value></value>
-    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mohicvs5-fnoh8it96</odePageId>
+      <odePageId>page-1776698021545-k2ciorpa5</odePageId>
       <odeBlockId>block-1776698081326-nleuyvn8j</odeBlockId>
       <blockName>Situación de aprendizaje</blockName>
       <iconName>info</iconName>
@@ -347,7 +311,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mohicvs5-fnoh8it96</odePageId>
+          <odePageId>page-1776698021545-k2ciorpa5</odePageId>
           <odeBlockId>block-1776698081326-nleuyvn8j</odeBlockId>
           <odeIdeviceId>idevice-1776698081322-mosytpmsq</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -357,18 +321,6 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776698081322-mosytpmsq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Presentación.png\" title=\"Presentación\" width=\"1512\" height=\"851\" alt=\"Presentación\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -376,195 +328,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mohicvs5-j1ltte2q8</odePageId>
-  <odeParentPageId></odeParentPageId>
-  <pageName>Protección de datos y garantías de derechos digitales </pageName>
-  <odeNavStructureOrder>1</odeNavStructureOrder>
-  <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Protección de datos y garantías de derechos digitales </value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Protección de datos y garantías de derechos digitales </value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value></value>
-    </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
-    <odePagStructure>
-      <odePageId>page-mohicvs5-j1ltte2q8</odePageId>
-      <odeBlockId>block-1776699750291-0rbenjuda</odeBlockId>
-      <blockName>Seguridad en internet</blockName>
-      <iconName>alert</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mohicvs5-j1ltte2q8</odePageId>
-          <odeBlockId>block-1776699750291-0rbenjuda</odeBlockId>
-          <odeIdeviceId>idevice-1776699750286-5l53tt0mi</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/Protección de datos y seguridad.png" title="Seguridad en internet" width="800" height="2000" alt="Seguridad en internet" /></p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776699750286-5l53tt0mi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Protección de datos y seguridad.png\" title=\"Seguridad en internet\" width=\"800\" height=\"2000\" alt=\"Seguridad en internet\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
-  <odePageId>page-mohicvs5-v5gt4xgwm</odePageId>
-  <odeParentPageId></odeParentPageId>
-  <pageName>Hoja de ruta</pageName>
-  <odeNavStructureOrder>2</odeNavStructureOrder>
-  <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Hoja de ruta</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Hoja de ruta</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value></value>
-    </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
-    <odePagStructure>
-      <odePageId>page-mohicvs5-v5gt4xgwm</odePageId>
-      <odeBlockId>block-1777305317671-e285fle41</odeBlockId>
-      <blockName>Hoja de ruta</blockName>
-      <iconName>roadmap</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mohicvs5-v5gt4xgwm</odePageId>
-          <odeBlockId>block-1777305317671-e285fle41</odeBlockId>
-          <odeIdeviceId>idevice-1777305317666-uw21kbfm5</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/Hoja de ruta.png" title="Hoja de ruta" width="1512" height="605" alt="Hoja de ruta" /></p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777305317666-uw21kbfm5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Hoja de ruta.png\" title=\"Hoja de ruta\" width=\"1512\" height=\"605\" alt=\"Hoja de ruta\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
-  <odePageId>page-mohicvs5-w5znt61tf</odePageId>
+  <odePageId>page-mo7a987f-987qvereb</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Tareas y producto final</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -600,7 +364,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mohicvs5-w5znt61tf</odePageId>
+      <odePageId>page-mo7a987f-987qvereb</odePageId>
       <odeBlockId>block-1777306220080-le5uchbi8</odeBlockId>
       <blockName>Tareas y producto final</blockName>
       <iconName>observe</iconName>
@@ -629,7 +393,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mohicvs5-w5znt61tf</odePageId>
+          <odePageId>page-mo7a987f-987qvereb</odePageId>
           <odeBlockId>block-1777306220080-le5uchbi8</odeBlockId>
           <odeIdeviceId>idevice-1777306220078-jo3r3n6zh</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -639,18 +403,6 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1777306220078-jo3r3n6zh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Tareas y producto final.png\" title=\"Tareas y producto final\" width=\"1512\" height=\"2139\" alt=\"Tareas y producto final\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -658,14 +410,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mohicvs6-u0c3jp6uc</odePageId>
-  <odeParentPageId>page-mohicvs5-w5znt61tf</odeParentPageId>
-  <pageName>Producto final</pageName>
+  <odePageId>page-mo7a987f-b88guhw1d</odePageId>
+  <odeParentPageId>page-mo7a987f-987qvereb</odeParentPageId>
+  <pageName>Hoja de ruta</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Producto final</value>
+      <value>Hoja de ruta</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -685,7 +437,7 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Producto final</value>
+      <value>Hoja de ruta</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
@@ -694,7 +446,147 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mohicvs6-u0c3jp6uc</odePageId>
+      <odePageId>page-mo7a987f-b88guhw1d</odePageId>
+      <odeBlockId>block-1777305317671-e285fle41</odeBlockId>
+      <blockName>Hoja de ruta</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7a987f-b88guhw1d</odePageId>
+          <odeBlockId>block-1777305317671-e285fle41</odeBlockId>
+          <odeIdeviceId>idevice-1777305317666-uw21kbfm5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Hoja de ruta.png" title="Hoja de ruta" width="1512" height="605" alt="Hoja de ruta" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777305317666-uw21kbfm5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Hoja de ruta.png\" title=\"Hoja de ruta\" width=\"1512\" height=\"605\" alt=\"Hoja de ruta\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7a987f-lwus2u43j</odePageId>
+  <odeParentPageId>page-mo7a987f-987qvereb</odeParentPageId>
+  <pageName>Protección de datos y garantías de derechos digitales </pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y garantías de derechos digitales </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y garantías de derechos digitales </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7a987f-lwus2u43j</odePageId>
+      <odeBlockId>block-1776699750291-0rbenjuda</odeBlockId>
+      <blockName>Seguridad en internet</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7a987f-lwus2u43j</odePageId>
+          <odeBlockId>block-1776699750291-0rbenjuda</odeBlockId>
+          <odeIdeviceId>idevice-1776699750286-5l53tt0mi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Protección de datos y seguridad.png" title="Seguridad en internet" width="800" height="2000" alt="Seguridad en internet" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776699750286-5l53tt0mi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Protección de datos y seguridad.png\" title=\"Seguridad en internet\" width=\"800\" height=\"2000\" alt=\"Seguridad en internet\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777306288514-vscr9y0kd</odePageId>
+  <odeParentPageId>page-mo7a987f-987qvereb</odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777306288514-vscr9y0kd</odePageId>
       <odeBlockId>block-1777306973439-43s5e5gz4</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -723,7 +615,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mohicvs6-u0c3jp6uc</odePageId>
+          <odePageId>page-1777306288514-vscr9y0kd</odePageId>
           <odeBlockId>block-1777306973439-43s5e5gz4</odeBlockId>
           <odeIdeviceId>idevice-1777306973434-4ub045j74</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -734,18 +626,6 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1777306973434-4ub045j74","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Diseño máquina limpiaocéanos.png\" title=\"Diseño de una máquina limpiaocéanos\" width=\"1414\" height=\"2000\" alt=\"Diseño de una máquina limpiaocéanos\" /><img src=\"{{context_path}}/content/resources/Tarea Scratch 1.png\" title=\"Tarea Scratch\" width=\"1414\" height=\"2000\" alt=\"Tarea Scratch\" /></p>\n<p><img src=\"{{context_path}}/content/resources/Expresión oral presentación de un diseño .png\" title=\"Presentación oral\" width=\"1512\" height=\"2139\" alt=\"Presentación oral\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -753,160 +633,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mohicvs6-pib49rqrl</odePageId>
-  <odeParentPageId></odeParentPageId>
-  <pageName>Evaluación</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
-  <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Evaluación</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Evaluación</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value></value>
-    </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
-    <odePagStructure>
-      <odePageId>page-mohicvs6-pib49rqrl</odePageId>
-      <odeBlockId>block-1777310944662-1j4vd8hju</odeBlockId>
-      <blockName>Diana de autoevaluación</blockName>
-      <iconName>objectives</iconName>
-      <odePagStructureOrder>0</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mohicvs6-pib49rqrl</odePageId>
-          <odeBlockId>block-1777310944662-1j4vd8hju</odeBlockId>
-          <odeIdeviceId>idevice-1777310944660-akbokefvg</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/Diana de autoevaluación.png" title="Diana de autoevaluación" width="1512" height="1069" alt="Diana de autoevaluación" /></p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777310944660-akbokefvg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Diana de autoevaluación.png\" title=\"Diana de autoevaluación\" width=\"1512\" height=\"1069\" alt=\"Diana de autoevaluación\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mohicvs6-pib49rqrl</odePageId>
-      <odeBlockId>block-1777311040775-16iowdnzm</odeBlockId>
-      <blockName>Rúbrica para el proyecto final</blockName>
-      <iconName>activity</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mohicvs6-pib49rqrl</odePageId>
-          <odeBlockId>block-1777311040775-16iowdnzm</odeBlockId>
-          <odeIdeviceId>idevice-1777311040773-kzghohuof</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 640px;"><embed width="640" height="480" src="{{context_path}}/content/resources/Rúbrica producto final.pdf" type="application/pdf" data-mce-fragment="1"></embed>
-<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a></span></figcaption>
-</figure>
-<p></p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777311040773-kzghohuof","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 640px;\"><embed width=\"640\" height=\"480\" src=\"{{context_path}}/content/resources/Rúbrica producto final.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a></span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
-  <odePageId>page-mohicvs6-ra7in8yhm</odePageId>
+  <odePageId>page-mo7a987f-ly6bvspln</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía didáctica</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -944,43 +671,79 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mohicvs6-nwc7nq8su</odePageId>
-  <odeParentPageId>page-mohicvs6-ra7in8yhm</odeParentPageId>
+  <odePageId>page-1777311414262-bncrp2vka</odePageId>
+  <odeParentPageId>page-mo7a987f-ly6bvspln</odeParentPageId>
+  <pageName>Tareas y criterios de evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777311414262-bncrp2vka</odePageId>
+      <odeBlockId>block-1777311417352-g6bqjgxxm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777311414262-bncrp2vka</odePageId>
+          <odeBlockId>block-1777311417352-g6bqjgxxm</odeBlockId>
+          <odeIdeviceId>idevice-1777311417350-9w05ri1s9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 640px;"><embed width="640" height="480" src="{{context_path}}/content/resources/Tareas y criterios de evaluación.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="title"><em>Tareas y criterios de evaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777311417350-9w05ri1s9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 640px;\"><embed width=\"640\" height=\"480\" src=\"{{context_path}}/content/resources/Tareas y criterios de evaluación.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Tareas y criterios de evaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777310876511-rsclued8f</odePageId>
+  <odeParentPageId>page-mo7a987f-ly6bvspln</odeParentPageId>
   <pageName>Material</pageName>
-  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Material</value>
     </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Material</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value></value>
-    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mohicvs6-nwc7nq8su</odePageId>
+      <odePageId>page-1777310876511-rsclued8f</odePageId>
       <odeBlockId>block-1777310881779-a0kxojorv</odeBlockId>
       <blockName>Vídeos, enlaces e información</blockName>
       <iconName>video</iconName>
@@ -1009,7 +772,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mohicvs6-nwc7nq8su</odePageId>
+          <odePageId>page-1777310876511-rsclued8f</odePageId>
           <odeBlockId>block-1777310881779-a0kxojorv</odeBlockId>
           <odeIdeviceId>idevice-1777310881776-o8jq4ihnn</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1019,18 +782,6 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1777310881776-o8jq4ihnn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/bdoncie024/steam-mission-saving-life-below-water-ux9o3tpv5jhk4rg5\" title=\"\">Vídeos, enlaces e información</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1038,7 +789,136 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mohicvs6-32hkugjq7</odePageId>
+  <odePageId>page-mo7a987f-26fx8k2ai</odePageId>
+  <odeParentPageId>page-mo7a987f-ly6bvspln</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7a987f-26fx8k2ai</odePageId>
+      <odeBlockId>block-1777310944662-1j4vd8hju</odeBlockId>
+      <blockName>Diana de autoevaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7a987f-26fx8k2ai</odePageId>
+          <odeBlockId>block-1777310944662-1j4vd8hju</odeBlockId>
+          <odeIdeviceId>idevice-1777310944660-akbokefvg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Diana de autoevaluación.png" title="Diana de autoevaluación" width="1512" height="1069" alt="Diana de autoevaluación" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777310944660-akbokefvg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Diana de autoevaluación.png\" title=\"Diana de autoevaluación\" width=\"1512\" height=\"1069\" alt=\"Diana de autoevaluación\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo7a987f-26fx8k2ai</odePageId>
+      <odeBlockId>block-1777311040775-16iowdnzm</odeBlockId>
+      <blockName>Rúbrica para el proyecto final</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7a987f-26fx8k2ai</odePageId>
+          <odeBlockId>block-1777311040775-16iowdnzm</odeBlockId>
+          <odeIdeviceId>idevice-1777311040773-kzghohuof</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 640px;"><embed width="640" height="480" src="{{context_path}}/content/resources/Rúbrica producto final.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a></span></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777311040773-kzghohuof","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 640px;\"><embed width=\"640\" height=\"480\" src=\"{{context_path}}/content/resources/Rúbrica producto final.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a></span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7a987f-sfi411zsr</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -1073,6 +953,57 @@
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7a987f-sfi411zsr</odePageId>
+      <odeBlockId>block-1777311762089-y2kfkqwlk</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7a987f-sfi411zsr</odePageId>
+          <odeBlockId>block-1777311762089-y2kfkqwlk</odeBlockId>
+          <odeIdeviceId>idevice-1777311762087-t8uc9u42f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;"><strong>STEAM MISSION: Saving life below water</strong></span></p>
+<p></p>
+<p>Beatriz Doña Ciézar</p>
+<p>Recurso creado con  eXeLearning 4</p>
+<p><br /></p>
+<p><br />Con licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</p>
+<p><br /></p>
+<p><br />Descargar el archivo fuente</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777311762087-t8uc9u42f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\"><strong>STEAM MISSION: Saving life below water</strong></span></p>\n<p></p>\n<p>Beatriz Doña Ciézar</p>\n<p>Recurso creado con  eXeLearning 4</p>\n<p><br /></p>\n<p><br />Con licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</p>\n<p><br /></p>\n<p><br />Descargar el archivo fuente</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 </odeNavStructures>
